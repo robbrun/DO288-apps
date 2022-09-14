@@ -8,5 +8,5 @@
 #
 
 # Run the app
-#echo "setting lang parameter to es..."
-exec /opt/app-root/app
+echo "setting lang parameter to es..."
+exec /opt/app-root/app --lang es
